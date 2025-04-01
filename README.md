@@ -9,6 +9,14 @@ Imagine a world where hopping on a bike is as easy as ordering your favorite cof
 
 This project dives into data-driven insights to optimize bike-sharing programs, ensuring that bikes are available where and when people need them the most. Using machine learning magic ✨, we uncover trends, predict demand, and create smarter strategies to keep the wheels spinning!
 
+### Objective:
+To assist a bike-sharing company in optimizing operations, expanding customer outreach, and improving service efficiency using predictive analytics.
+
+### Approach:
+- Analyzed historical data on bike rentals based on weather, weekends, holidays, and other variables.
+- Implemented ensemble learning techniques (Bagging, Boosting, and Stacking) to predict demand trends.
+- Identified key factors affecting rental volume to improve resource allocation.
+
 📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Transportation-Mobility_Industries/blob/main/BikeSharing_Expansion.ipynb)
 
 ### 💡 Key Insights & Recommendations
@@ -32,6 +40,14 @@ This project dives into data-driven insights to optimize bike-sharing programs, 
 Picture this: You just landed after a long-haul flight, and your luggage is nowhere to be found. Naturally, you vent on Twitter! Airlines today receive a flood of customer feedback online, but how can they keep up with it all?
 
 Enter AI-driven sentiment analysis! 🌟 This project leverages NLP models to analyze tweets, detect customer sentiment (positive, negative, neutral), and provide airlines with actionable insights to boost customer satisfaction and prevent PR disasters.
+
+### Objective:
+To develop a Generative AI application that automates the classification and prioritization of customer support tickets, improving response efficiency and customer satisfaction.
+
+### Approach:
+- Leveraged Large Language Models (LLMs) and sentiment analysis to classify ticket categories, assign priorities, and generate automated responses.
+- Structured feedback data to optimize issue resolution processes.
+- Developed an AI-driven system to predict estimated resolution times based on ticket type.
 
 📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Transportation-Mobility_Industries/blob/main/AirlineCustomerReview_SentimentAnalysis_2.ipynb
 )
@@ -60,6 +76,14 @@ Ever been stuck waiting for a customer service response? 😡 Well, businesses a
 
 This project introduces an AI-powered system using Generative AI & Large Language Models (LLMs) to automate ticket classification, priority setting, and even response generation!
 
+### Objective:
+To analyze social media feedback, specifically customer reviews on Twitter, to assess sentiment trends and identify key drivers of satisfaction and dissatisfaction.
+
+### Approach:
+- Developed a predictive sentiment analysis model using Google FLAN-T5, achieving an 82% accuracy rate.
+- Identified frequent negative keywords (e.g., "delayed," "cancelled," "customer service") and positive keywords (e.g., "thank," "great," "appreciate").
+- Built word clouds to visualize common topics associated with different sentiment types.
+  
 📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Transportation-Mobility_Industries/blob/main/SupportTicketAnalysis_NLP.ipynb)
 
 ## 🎉 Key Benefits & Business Impact
