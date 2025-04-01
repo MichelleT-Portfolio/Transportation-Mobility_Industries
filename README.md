@@ -9,7 +9,7 @@ Imagine a world where hopping on a bike is as easy as ordering your favorite cof
 
 This project dives into data-driven insights to optimize bike-sharing programs, ensuring that bikes are available where and when people need them the most. Using machine learning magic ✨, we uncover trends, predict demand, and create smarter strategies to keep the wheels spinning!
 
-📂 [Project Notebook]
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Transportation-Mobility_Industries/blob/main/BikeSharing_Expansion.ipynb)
 
 ### 💡 Key Insights & Recommendations
 
@@ -33,7 +33,8 @@ Picture this: You just landed after a long-haul flight, and your luggage is nowh
 
 Enter AI-driven sentiment analysis! 🌟 This project leverages NLP models to analyze tweets, detect customer sentiment (positive, negative, neutral), and provide airlines with actionable insights to boost customer satisfaction and prevent PR disasters.
 
-📂 [Project Notebook]
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Transportation-Mobility_Industries/blob/main/AirlineCustomerReview_SentimentAnalysis_2.ipynb
+)
 
 ## 🔎 Key Insights & Recommendations
 
@@ -59,7 +60,7 @@ Ever been stuck waiting for a customer service response? 😡 Well, businesses a
 
 This project introduces an AI-powered system using Generative AI & Large Language Models (LLMs) to automate ticket classification, priority setting, and even response generation!
 
-📂 [Project Notebook]
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Transportation-Mobility_Industries/blob/main/SupportTicketAnalysis_NLP.ipynb)
 
 ## 🎉 Key Benefits & Business Impact
 
